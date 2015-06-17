@@ -1,19 +1,26 @@
-# The Pair Programming Bot
+#Sinatra Routing App
 
-####Learning Objectives:
+####Objectives:
 
-Students get practice writing routes, passing parameters, working with params, and using ERB (Embedded Ruby templates
+- Practice routing, passing parameters, and ERB Templates
 
-#### Prompt:
+#### Prompt
 
-- You are going to recreate the [Pair Programming Bot](http://pair-programming-bot.herokuapp.com/) from scratch using Sinatra, meaning each page will either have a 'YES/NO' option or a 'DONE' option, and each option will link to the appropriate page. 
+- You are going to recreate your own version of the [pair programming bot](http://pairprogrammingbot.com/) from scratch using Sinatra. The web app should follow a flowchart. Each page will either have a Yes/No option or Done option which links to another page. 
 
-#### Helpful Hints from a Benevolent Alum
+- Ignore the stuff on that site about "Inspiration" & "run tests".
 
-- Draw a flow chart for the app's behavior before you code a word. Check out [this flowchart example](https://c1.staticflickr.com/9/8160/7214525854_733237dd83_z.jpg) for flowchart inspiration.
+- Your program should mimic the HTML of the web site, but don't worry about styling it using CSS.
 
-- You should use ERB templates to keep your code DRY. Ask yourself what types of pages you will need a template for?
+#### Planning
 
-- For each of the templates that you use, think about what information you will need to pass in using instance variables.
+- Map out your program first. ie BEFORE you start coding. It will be helpful to draw a flow chart.
 
-- Styling is secondary, so don't start styling until your app works. (Don't put lipstick on a pig.)
+- You should use ERB templates to keep your code DRY. What types of pages will you need a template for?
+
+- For each of the templates that you are going to use, what information do you need to pass in using an instance variable?
+
+- How many / which pages do you need? What template type is each page going to be?
+
+####Original Source
+[Pair programming bot](http://pairprogrammingbot.com/)
