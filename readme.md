@@ -16,4 +16,4 @@ Students get practice writing routes, passing parameters, working with params, a
 
 - For each of the templates that you use, think about what information you will need to pass in using instance variables.
 
-- Styling is secondary, so don't start styling until your app works. (Don't put lipstick on a pig.)
+- Styling is secondary, so don't start styling until your app works.
