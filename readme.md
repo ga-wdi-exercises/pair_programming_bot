@@ -6,7 +6,7 @@ Students get practice writing routes, passing parameters, working with params, a
 
 #### Prompt:
 
-- You are going to recreate the [Pair Programming Bot](http://pair-programming-bot.herokuapp.com/) from scratch using Sinatra, meaning each page will either have a 'YES/NO' option or a 'DONE' option, and each option will link to the appropriate page. 
+- You are going to recreate the Pair Programming Bot from scratch using Sinatra, meaning each page will either have a 'YES/NO' option or a 'DONE' option, and each option will link to the appropriate page. 
 
 #### Helpful Hints from a Benevolent Alum
 
