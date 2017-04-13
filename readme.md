@@ -1,6 +1,6 @@
 # The Pair Programming Bot
 
-####Learning Objectives:
+#### Learning Objectives:
 
 Students get practice writing routes, passing parameters, working with params, and using ERB (Embedded Ruby templates
 
