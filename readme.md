@@ -1,6 +1,6 @@
-#Sinatra Routing App
+# Sinatra Routing App
 
-####Objectives:
+#### Objectives:
 
 - Practice routing, passing parameters, and ERB Templates
 
@@ -22,5 +22,5 @@
 
 - How many / which pages do you need? What template type is each page going to be?
 
-####Original Source
+#### Original Source
 [Pair programming bot](http://pairprogrammingbot.com/)
